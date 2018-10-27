@@ -13,9 +13,9 @@ A copy of my CV can be found [Here](http://woojungbae.github.io/files/CV.pdf)
 
 Education
 ======
-* B.S. in Mathetics and B.E. in Economics, KyungHee University, Korea, 2016
-* M.A. in Statistics, Yonsei University, Korea, 2018
 * Ph.D in Statistics, University of Florida, 2023 (expected)
+* M.A. in Statistics, Yonsei University, Korea, 2018
+* B.S. in Mathetics and B.E. in Economics, KyungHee University, Korea, 2016
 
 Work experience
 ======
