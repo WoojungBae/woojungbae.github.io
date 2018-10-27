@@ -28,5 +28,5 @@ Work experience
   * Efficient statistical inferences, computing and application of semiparametric accelerated failure time models with induced smoothing, National Research Foundation of Korea
   * Supervisor: Dr. Sangwook Kang
 
-* Oct2010 - Jul2012: Military ServiceResearch Assistant
+* Oct2010 - Jul2012: Military Service
   * Capital Mechanized Infantry Division, Republic of Korea Army
