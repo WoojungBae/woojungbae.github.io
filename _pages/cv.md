@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 A copy of my CV can be found [Here](http://woojungbae.github.io/files/cv.pdf)
 
 Education
