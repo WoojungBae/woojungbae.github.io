@@ -22,7 +22,7 @@ Work experience
 * May2017 - Feb2018: Research Assistant
   * Department of Applied Statistics, Yonsei University
   * Statistical inference and application of semiparametric quantile residual life models, National Research Foundation of Korea
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Sangwook Kang
 * Sep2016 - Apr2017: Research Assistant
   * Department of Applied Statistics, Yonsei University
   * Efficient statistical inferences, computing and application of semiparametric accelerated failure time models with induced smoothing, National Research Foundation of Korea
