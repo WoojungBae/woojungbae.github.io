@@ -19,14 +19,15 @@ Education
 
 Work experience
 ======
-* Research Assistant: May2017 - Feb2018
-  * Department of Applied Statistics, Yonsei University
-  * Statistical inference and application of semiparametric quantile residual life models, National Research Foundation of Korea
-  * Supervisor: Dr. Sangwook Kang
-* Research Assistant: Sep2016 - Apr2017
-  * Department of Applied Statistics, Yonsei University
-  * Efficient statistical inferences, computing and application of semiparametric accelerated failure time models with induced smoothing, National Research Foundation of Korea
-  * Supervisor: Dr. Sangwook Kang
+* Research Assistant
+  - May2017 - Feb2018
+    + Department of Applied Statistics, Yonsei University
+    + Statistical inference and application of semiparametric quantile residual life models, National Research Foundation of Korea
+    + Supervisor: Dr. Sangwook Kang
+  - Sep2016 - Apr2017
+    + Department of Applied Statistics, Yonsei University
+    + Efficient statistical inferences, computing and application of semiparametric accelerated failure time models with induced smoothing, National Research Foundation of Korea
+    + Supervisor: Dr. Sangwook Kang
 
 * Teaching Assistant: 2018F
   * Department of Statistics, University of Florida
