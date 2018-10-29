@@ -19,14 +19,27 @@ Education
 
 Work experience
 ======
-* May2017 - Feb2018: Research Assistant
+* Research Assistant: May2017 - Feb2018
   * Department of Applied Statistics, Yonsei University
   * Statistical inference and application of semiparametric quantile residual life models, National Research Foundation of Korea
   * Supervisor: Dr. Sangwook Kang
-* Sep2016 - Apr2017: Research Assistant
+* Research Assistant: Sep2016 - Apr2017
   * Department of Applied Statistics, Yonsei University
   * Efficient statistical inferences, computing and application of semiparametric accelerated failure time models with induced smoothing, National Research Foundation of Korea
   * Supervisor: Dr. Sangwook Kang
 
-* Oct2010 - Jul2012: Military Service
+* Teaching Assistant: 2018F
+  * Department of Statistics, University of Florida
+  * STA4321/STA5325 - Introduction to Probability
+* Teaching Assistant: 2016F, 2017S, 2017F
+  * Department of Applied Statistics, Yonsei University
+  * STA1001 - Introduction to Statistics
+* Teaching Assistant: 2016F, 2017F
+  * Department of Applied Statistics, Yonsei University
+  * STA3108 - Survival Analysis
+* Teaching Assistant: 2017S
+  * Department of Applied Statistics, Yonsei University
+  * STA3123 - Sampling Theory
+
+* Military Service: Oct2010 - Jul2012
   * Capital Mechanized Infantry Division, Republic of Korea Army
