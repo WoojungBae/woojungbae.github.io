@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Research Assistant: May2017 - Feb2018
-  * Department of Applied Statistics, Yonsei University
+    * Department of Applied Statistics, Yonsei University
   * Statistical inference and application of semiparametric quantile residual life models, National Research Foundation of Korea
   * Supervisor: Dr. Sangwook Kang
 * Research Assistant: Sep2016 - Apr2017
