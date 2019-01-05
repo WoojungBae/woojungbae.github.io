@@ -30,6 +30,8 @@ Work experience
     + Supervisor: Dr. Sangwook Kang
 
 * Teaching Assistant
+  - 2019S
+    + STA4322/STA5328 - Introduction to Statistics Theory, Department of Statistics, University of Florida
   - 2018F
     + STA4321/STA5325 - Introduction to Probability, Department of Statistics, University of Florida
   - 2016F, 2017S, 2017F
