@@ -29,6 +29,12 @@ Work experience
     + Efficient statistical inferences, computing and application of semiparametric accelerated failure time models with induced smoothing, National Research Foundation of Korea
     + Supervisor: Dr. Sangwook Kang
 
+* Military Service
+  - Oct2010 - Jul2012
+    + Capital Mechanized Infantry Division, Republic of Korea Army
+    
+Teaching experience
+======
 * Teaching Assistant
   - 2019S
     + STA4322/STA5328 - Introduction to Statistics Theory, Department of Statistics, University of Florida
@@ -40,7 +46,3 @@ Work experience
     + STA3108 - Survival Analysis, Department of Applied Statistics, Yonsei University
   - 2017S
     + STA3123 - Sampling Theory, Department of Applied Statistics, Yonsei University
-
-* Military Service
-  - Oct2010 - Jul2012
-    + Capital Mechanized Infantry Division, Republic of Korea Army
