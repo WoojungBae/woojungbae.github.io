@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Statistics, University of Florida, 2023 (expected)
 * M.A. in Statistics, Yonsei University, Korea, 2018
-* B.S. in Mathetics and B.E. in Economics, KyungHee University, Korea, 2016
+* B.S. in Mathmatics and B.E. in Economics, KyungHee University, Korea, 2016
 
 Work experience
 ======
