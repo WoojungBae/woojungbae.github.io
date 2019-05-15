@@ -35,7 +35,7 @@ Work experience
     
 Teaching experience
 ======
-* Teaching Assistant (F:Fall, S:Spring, SA:SummerA, SB:SummerB)
+* Teaching Assistant
   - 2019SB
     + STA 2023 - Introduction to Statistics 1, Department of Statistics, University of Florida
   - 2019SA
