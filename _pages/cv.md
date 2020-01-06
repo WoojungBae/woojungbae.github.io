@@ -36,17 +36,13 @@ Work experience
 Teaching experience
 ======
 * Teaching Assistant
-  - 2019S, 2020S
-    + STA4322/STA5328 - Introduction to Statistics Theory, Department of Statistics, University of Florida
-  - 2018F, 2019F
-    + STA4321/STA5325 - Introduction to Probability, Department of Statistics, University of Florida
-  - 2019SB
-    + STA 2023 - Introduction to Statistics 1, Department of Statistics, University of Florida
-  - 2019SA
-    + STA 3032 - Engineering Statistics, Department of Statistics, University of Florida
-  - 2016F, 2017S, 2017F
-    + STA1001 - Introduction to Statistics, Department of Applied Statistics, Yonsei University
-  - 2016F, 2017F
-    + STA3108 - Survival Analysis, Department of Applied Statistics, Yonsei University
-  - 2017S
-    + STA3123 - Sampling Theory, Department of Applied Statistics, Yonsei University
+  - University of Florida, Department of Statistics
+    + STA4322/STA5328 - Introduction to Statistics Theory
+    + STA4321/STA5325 - Introduction to Probability
+    + STA 3032 - Engineering Statistics
+    + STA 2023 - Introduction to Statistics 1
+  - Yonsei University, Department of Applied Statistics
+    + STA3123 - Sampling Theory
+    + STA3108 - Survival Analysis
+    + STA1001 - Introduction to Statistics
+
