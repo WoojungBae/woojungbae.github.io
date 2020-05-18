@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am a Ph.D. student in the Department of Statistics at the University of Florida. I am working with Dr. Michael Daniels. 
+
 Before starting my Ph.D., I received my undergraduate degree B.Math. in 2016 from Kyunghee KyungHee University, Korea, and my master's degree M.Stat. in 2018 form Applied Statistics at Yonsei University, Korea. During my master's, I was working as a research assistant supervised by Dr. Sangwook Kang. 
+
 I have a broad interest in statistics, but most of my research has centered around Bayesian methodology, causal inference, biostatistics, missing data, and building a corresponding software.
 
 
