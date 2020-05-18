@@ -22,9 +22,10 @@ Education
 Work experience
 ======
 * Research Assistant
+  - May 2020 - June 2020
+    + Department of Statistics, University of Florida, Supervisor: Dr. Michael Daniels
   - Sep 2016 - Feb 2018
-    + Department of Applied Statistics, Yonsei University
-    + Supervisor: Dr. Sangwook Kang
+    + Department of Applied Statistics, Yonsei University, Supervisor: Dr. Sangwook Kang
     
 * Teaching Assistant
   - University of Florida, Department of Statistics
