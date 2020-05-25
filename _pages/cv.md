@@ -14,18 +14,18 @@ A copy of my CV can be found [Here](http://woojungbae.github.io/files/CV.pdf)
 Education
 ======
 * Ph.D in Statistics, University of Florida, 2023 (expected)
-  - Supervisor: Dr. Michael Daniels
+  - Under the supervision of Dr. Michael Daniels
 * M.A. in Statistics, Yonsei University, Korea, 2018
-  - Supervisor: Dr. Sangwook Kang
+  - Under the supervision of Dr. Sangwook Kang
 * B.S. in Mathematics and B.E. in Economics, KyungHee University, Korea, 2016
 
 Work experience
 ======
 * Research Assistant
   - May 2020 - June 2020
-    + Department of Statistics, University of Florida, Supervisor: Dr. Michael Daniels
-  - Sep 2016 - Feb 2018
-    + Department of Applied Statistics, Yonsei University, Supervisor: Dr. Sangwook Kang
+    + Department of Statistics, University of Florida under the supervision of Dr. Michael Daniels
+  - Sep 2016 - Feb 2018 
+    + Department of Applied Statistics, Yonsei University under the supervision of Dr. Sangwook Kang
     
 * Teaching Assistant
   - University of Florida, Department of Statistics
