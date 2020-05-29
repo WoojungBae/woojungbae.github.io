@@ -22,10 +22,10 @@ Education
 Work experience
 ======
 * Research Assistant
-  - May 2020 - June 2020
-    + Department of Statistics, University of Florida under the supervision of Dr. Michael Daniels
-  - Sep 2016 - Feb 2018 
-    + Department of Applied Statistics, Yonsei University under the supervision of Dr. Sangwook Kang
+  - Department of Statistics, University of Florida, May 2020 - June 2020
+    + Under the supervision of Dr. Michael Daniels
+  - Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 
+    + Under the supervision of Dr. Sangwook Kang
     
 * Teaching Assistant
   - University of Florida, Department of Statistics
@@ -40,8 +40,8 @@ Work experience
     + STA1001 - Introduction to Statistics
     
 * Military Service
-  - Oct2010 - Jul2012
-    + Capital Mechanized Infantry Division, Republic of Korea Army
+  - Capital Mechanized Infantry Division, Republic of Korea Army, Oct2010 - Jul2012
+    + Served and honorably discharged from Korea Army
 
 <!--
 Work experience
