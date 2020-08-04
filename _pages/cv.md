@@ -22,18 +22,20 @@ Education
 Work experience
 ======
 * Research Assistant
-  - Department of Statistics, University of Florida, May 2020 - June 2020
+  - Department of Statistics, University of Florida, May 2020 - Present
     + Under the supervision of Dr. Michael Daniels
   - Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 
     + Under the supervision of Dr. Sangwook Kang
     
 * Teaching Assistant
   - University of Florida, Department of Statistics
-    + STA4322/STA5328 - Introduction to Statistics Theory
-    + STA4321/STA5325 - Introduction to Probability
-    + STA 3032 - Engineering Statistics
-    + STA 3024 - Introduction to Statistics 2
-    + STA 2023 - Introduction to Statistics 1
+    + STA5328 - Fundamentals of Statistics
+    + STA5325 - Fundamentals of Probability
+    + STA4322 - Introduction to Statistics Theory
+    + STA4321 - Introduction to Probability
+    + STA3032 - Engineering Statistics
+    + STA3024 - Introduction to Statistics 2
+    + STA2023 - Introduction to Statistics 1
   - Yonsei University, Department of Applied Statistics
     + STA3123 - Sampling Theory
     + STA3108 - Survival Analysis
