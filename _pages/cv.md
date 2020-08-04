@@ -42,7 +42,7 @@ Work experience
     + STA1001 - Introduction to Statistics
     
 * Military Service
-  - Capital Mechanized Infantry Division, Republic of Korea Army, Oct2010 - Jul2012
+  - Capital Mechanized Infantry Division, Republic of Korea Army, Oct 2010 - Jul 2012
     + Served and honorably discharged from Korea Army
 
 <!--
