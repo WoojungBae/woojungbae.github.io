@@ -28,7 +28,7 @@ Work experience
     + Under the supervision of Dr. Sangwook Kang
     
 * Teaching Assistant
-  - University of Florida, Department of Statistics
+  - Department of Statistics, University of Florida, Aug 2018 - Apr 2020
     + STA5328 - Fundamentals of Statistics
     + STA5325 - Fundamentals of Probability
     + STA4322 - Introduction to Statistics Theory
@@ -36,7 +36,7 @@ Work experience
     + STA3032 - Engineering Statistics
     + STA3024 - Introduction to Statistics 2
     + STA2023 - Introduction to Statistics 1
-  - Yonsei University, Department of Applied Statistics
+  - Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 
     + STA3123 - Sampling Theory
     + STA3108 - Survival Analysis
     + STA1001 - Introduction to Statistics
