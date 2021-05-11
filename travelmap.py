@@ -1,10 +1,10 @@
 
 
-# # Leaflet cluster map of talk locations
+# # Leaflet cluster map of travel locations
 #
 # (c) 2016-2017 R. Stuart Geiger, released under the MIT license
 #
-# Run this from the _talks/ directory, which contains .md files of all your talks. 
+# Run this from the _travel/ directory, which contains .md files of all your travel. 
 # This scrapes the location YAML field from each .md file, geolocates it with
 # geopy/Nominatim, and uses the getorg library to output data, HTML,
 # and Javascript for a standalone cluster map.
@@ -40,7 +40,7 @@ for file in g:
 
 
 m = getorg.orgmap.create_map_obj()
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talkmap", hashed_usernames=False)
+getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../travelmap", hashed_usernames=False)
 
 
 
