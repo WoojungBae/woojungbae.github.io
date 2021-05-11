@@ -9,5 +9,5 @@ main:
   - title: "CV"
     url: /cv/
 
-#  - title: "Travel Map"
-#    url: /travelmap.html
+  - title: "Travel Map"
+    url: /travelmap.html
