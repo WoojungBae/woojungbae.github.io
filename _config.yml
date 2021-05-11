@@ -142,6 +142,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - sitemap.xml
 keep_files:
   - .git
   - .svn
