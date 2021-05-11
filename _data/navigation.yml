@@ -2,12 +2,12 @@
 main:
 #  - title: "Publications"
 #    url: /publications/      
+
+#  - title: "Talks"
+#    url: /talks/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Talks"
-    url: /talks/
 
-  - title: "Talk Map"
-    url: /talkmap.html
+  - title: "Travel Map"
+    url: /travelmap.html
