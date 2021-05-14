@@ -1,2 +1,2 @@
 # Academic Pages
-woojungbae.github.io/
+woojungbae.github.io
