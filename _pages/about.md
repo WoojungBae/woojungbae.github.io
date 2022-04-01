@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Statistics at the University of Florida. I am currently working with Dr. Michael Daniels.
+I am a Ph.D. student in the Department of Statistics at the University of Florida. I am currently working with Dr. Michael Daniels. 
 
 I am originally from South Korea. Before starting my Ph.D., I received my Bachelor’s degree in mathematics in 2016 from KyungHee University and a Master’s degree in statistics at Yonsei University. During my Master's program, I worked as a research assistant under the supervision of Dr. Sangwook Kang.
 
 Most of my research has centered around Bayesian methodology, causal inference, biostatistics, missing data, and building a corresponding software, but I have a broad interest in statistics.
+
+<!-- For three months throughout my Ph.D. program, I worked with Dr. Chenguang Wang as a graduate intern at Regeneron Pharmaceuticals Inc. -->
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
