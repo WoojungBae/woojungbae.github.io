@@ -21,12 +21,16 @@ Education
 
 Work experience
 ======
+* Graduate Internship
+  - Regeneron Pharmaceuticals Inc., May 2022 - Aug 2022
+    + Under the supervision of Dr. Chenguang Wang
+
 * Research Assistant
   - Department of Statistics, University of Florida, May 2020 - Present
     + Under the supervision of Dr. Michael Daniels
   - Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 
     + Under the supervision of Dr. Sangwook Kang
-    
+
 * Teaching Assistant
   - Department of Statistics, University of Florida, Aug 2018 - Apr 2020
     + STA5328 - Fundamentals of Statistics
