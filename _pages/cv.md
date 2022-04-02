@@ -19,7 +19,7 @@ Education
   - Under the supervision of Dr. Sangwook Kang
 * B.S. in Mathematics and B.E. in Economics, KyungHee University, Korea, 2016
 
-Work experience
+Research experience
 ======
 * Graduate Internship
   - Regeneron Pharmaceuticals Inc., May 2022 - Aug 2022
@@ -31,6 +31,8 @@ Work experience
   - Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 
     + Under the supervision of Dr. Sangwook Kang
 
+Teaching experience
+======
 * Teaching Assistant
   - Department of Statistics, University of Florida, Aug 2018 - Apr 2020
     + STA5328 - Fundamentals of Statistics
