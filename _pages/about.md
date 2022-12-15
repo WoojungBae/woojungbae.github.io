@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Statistics at the University of Florida. I am working with Dr. Michael Daniels. 
+I am a Ph.D. candidate in the Department of Statistics at the University of Florida. I am working with Dr. Michael J. Daniels. 
 
-I am originally from South Korea. Before starting my Ph.D., I received my Bachelor’s degree in mathematics in 2016 from KyungHee University and a Master’s degree in statistics from Yonsei University. During my Master's program, I worked as a research assistant under the supervision of Dr. Sangwook Kang. 
+I am originally from South Korea. Before starting my Ph.D., I received my Bachelor’s degree in mathematics in 2016 from KyungHee University and a Master’s degree in statistics from Yonsei University (under Dr. Sangwook Kang). During the summer of 2022, I worked as a Ph.D. research intern at Regeneron in the biostatistics and data management team.
 
-Most of my research has centered around Bayesian methodology, causal inference, biostatistics, missing data, and building a corresponding software, but I have a broad interest in statistics.
+I have a broad interest in statistics, most of my research has centered around Bayesian methodology, biostatistics, biomedical data modeling, causal inference, causal mediation analysis, missing data, survival analysis, and building a corresponding software. 
 
 <!-- For three months throughout my Ph.D. program, I worked with Dr. Chenguang Wang as a graduate intern at Regeneron Pharmaceuticals Inc. -->
 
