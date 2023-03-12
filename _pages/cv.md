@@ -46,7 +46,9 @@ Teaching experience
     + STA3123 - Sampling Theory
     + STA3108 - Survival Analysis
     + STA1001 - Introduction to Statistics
-    
+
+Service
+======
 * Military Service
   - Capital Mechanized Infantry Division, Republic of Korea Army, Oct 2010 - Jul 2012
     + Served and honorably discharged from Korea Army
