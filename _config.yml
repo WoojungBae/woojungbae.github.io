@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WooJung Bae"
+title                    : "Woojung Bae"
 title_separator          : "-"
-name                     : &name "WooJung Bae"
+name                     : &name "Woojung Bae"
 description              : &description "Ph.D. Candidate of Statistics at the University of Florida"
 url                      : https://woojungbae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "WooJung Bae"
+  name             : "Woojung Bae"
   avatar           : "WoojungBae_UF.jpg"
   bio              : "Ph.D. Candidate of Statistics at the University of Florida"
   location         : 
