@@ -13,7 +13,7 @@ A copy of my CV can be found [Here](http://woojungbae.github.io/files/CV.pdf)
 
 Education
 ======
-* Ph.D in Statistics, University of Florida, 2023 (expected)
+* Ph.D in Statistics, University of Florida, 2024 (expected)
   - Under the supervision of Dr. Michael Daniels
 * M.A. in Statistics, Yonsei University, Korea, 2018
   - Under the supervision of Dr. Sangwook Kang
