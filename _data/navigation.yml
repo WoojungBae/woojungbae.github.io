@@ -4,14 +4,14 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "LinkedIn"
-    url: https://www.linkedin.com/in/woojung-bae
+#    - title: "LinkedIn"
+#      url: https://www.linkedin.com/in/woojung-bae
     
   - title: "GitHub"
     url: https://github.com/WooJungBae
     
-  - title: "GoogleScholar"
-    url: https://scholar.google.com/citations?user=kDRdWkEAAAAJ&hl=en&oi=ao
+#    - title: "GoogleScholar"
+#      url: https://scholar.google.com/citations?user=kDRdWkEAAAAJ&hl=en&oi=ao
     
 #  - title: "Publications"
 #    url: /publications/      
