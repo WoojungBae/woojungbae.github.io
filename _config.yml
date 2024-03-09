@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Woojung Bae"
 title_separator          : "-"
 name                     : &name "Woojung Bae"
-description              : &description "Ph.D. Candidate of Statistics at the University of Florida"
+description              : &description "Statistician"
 url                      : https://woojungbae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Woojung Bae"
   avatar           : "WoojungBae_UF.jpg"
-  bio              : "Ph.D. Candidate of Statistics at the University of Florida"
+  bio              : "Statistician"
   location         : 
   employer         : 
   googlescholar    : # https://scholar.google.com/citations?user=kDRdWkEAAAAJ&hl=en&oi=ao
@@ -94,7 +94,7 @@ author:
   flickr           : 
   facebook         : 
   foursquare       : 
-  github           : # https://github.com/WooJungBae
+  github           : # https://github.com/WoojungBae
   google_plus      : 
   keybase          : 
   instagram        : 
