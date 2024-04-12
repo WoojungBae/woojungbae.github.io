@@ -11,21 +11,39 @@ redirect_from:
 
 A copy of my CV can be found [Here](http://woojungbae.github.io/files/CV.pdf)
 
+Work experience
+======
+<!-- * Mathematical Statistician
+  - US Food and Drug Administration, Sep 2024 -- Present
+    + Center for Biologics Evaluation and Research
+-->
+* Graduate Internship
+  - Regeneron Pharmaceuticals Inc., May 2022 - Aug 2022
+    + Mentor: Dr. Chenguang Wang
+
 Education
 ======
 * Ph.D. in Statistics, University of Florida, 2024
+  <!-- - Dissertation: A Bayesian nonparametric approach to causal inference -->
   - Advisor: Dr. Michael Daniels
+    + Research Assistant, Department of Statistics, University of Florida, May 2020 - Aug 2024
+    + Teaching Assistant, Department of Statistics, University of Florida, Aug 2018 - May 2020
 * M.A. in Statistics, Yonsei University, Korea, 2018
-  - Thesis: R Package afttest for Checking Semiparametric Accelerated Failure Time Models
+  - Thesis: R package afttest for checking semiparametric accelerated failure time models
   - Advisor: Dr. Sangwook Kang
+    + Research Assistant, Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
+    + Teaching Assistant, Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
 * B.S. in Mathematics and B.E. in Economics, KyungHee University, Korea, 2016
 
+Service
+======
+* Military Service
+  - Capital Mechanized Infantry Division, Republic of Korea Army, Oct 2010 - Jul 2012
+    + Served and honorably discharged from the Republic of Korea Army
+
+<!--
 Work experience
 ======
-* Graduate Internship
-  - Regeneron Pharmaceuticals Inc., May 2022 - Aug 2022
-    + Advisor: Dr. Chenguang Wang
-
 * Research Assistant
   - Department of Statistics, University of Florida, May 2020 - Aug 2024
     + Advisor: Dr. Michael Daniels
@@ -45,9 +63,4 @@ Work experience
     + STA3123 - Sampling Theory
     + STA3108 - Survival Analysis
     + STA1001 - Introduction to Statistics
-
-Service
-======
-* Military Service
-  - Capital Mechanized Infantry Division, Republic of Korea Army, Oct 2010 - Jul 2012
-    + Served and honorably discharged from the Republic of Korea Army
+-->
