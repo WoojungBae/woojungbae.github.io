@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A copy of my CV can be found [<b>HERE</b>](http://woojungbae.github.io/files/CV.pdf)
+A copy of my CV can be found [<u>HERE</u>](http://woojungbae.github.io/files/CV.pdf)
 
 Work experience
 ======
