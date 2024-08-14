@@ -20,17 +20,17 @@ Work experience
 
 Education
 ======
-* Ph.D. in Statistics, University of Florida, 2024
+* Ph.D. in Statistics, University of Florida, Aug 2024
   <!-- - Dissertation: A Bayesian nonparametric approach to causal inference -->
   - Advisor: Dr. Michael Daniels
     + Research Assistant, Department of Statistics, May 2020 - Aug 2024
     + Teaching Assistant, Department of Statistics, Aug 2018 - May 2020
-* M.A. in Statistics, Yonsei University, Korea, 2018
+* M.A. in Statistics, Yonsei University, Korea, Feb 2018
   - Thesis: R package afttest for checking semiparametric accelerated failure time models
   - Advisor: Dr. Sangwook Kang
     + Research Assistant, Department of Applied Statistics, Sep 2016 - Feb 2018
     + Teaching Assistant, Department of Applied Statistics, Sep 2016 - Feb 2018
-* B.S. in Mathematics and B.E. in Economics, KyungHee University, Korea, 2016
+* B.S. in Mathematics and B.E. in Economics, KyungHee University, Korea, Feb 2016
 
 Service
 ======
