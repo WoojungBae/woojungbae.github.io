@@ -13,7 +13,7 @@ A copy of my CV can be found [<u>HERE</u>](http://woojungbae.github.io/files/CV.
 
 Work experience
 ======
-* Mathematical Statistician, US Food and Drug Administration, Sep 2024 -- Present
+* Mathematical Statistician, US Food and Drug Administration, Nov 2024 -- Present
   - Center for Biologics Evaluation and Research
 * Ph.D. Research Intern, Regeneron Pharmaceuticals Inc., May 2022 - Aug 2022
   - Mentor: Dr. Chenguang Wang
