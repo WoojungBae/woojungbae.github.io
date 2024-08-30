@@ -85,7 +85,7 @@ author:
   bio              : "Statistician"
   location         : 
   employer         : 
-  googlescholar    : # https://scholar.google.com/citations?user=kDRdWkEAAAAJ&hl=en&oi=ao
+  googlescholar    : https://scholar.google.com/citations?user=kDRdWkEAAAAJ&hl=en&oi=ao
   email            : 
   uri              : 
   bitbucket        : 
@@ -94,16 +94,16 @@ author:
   flickr           : 
   facebook         : 
   foursquare       : 
-  github           : # https://github.com/WoojungBae
+  github           : https://github.com/WoojungBae
   google_plus      : 
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : # www.linkedin.com/in/woojung-bae
-  orcid            : # 0000-0001-6760-9900
+  linkedin         : www.linkedin.com/in/WoojungBae
+  orcid            : https://orcid.org/0000-0001-6760-9900
   pinterest        : 
   soundcloud       : 
-  stackoverflow    : # https://stackoverflow.com/users/9293812/woojung-bae
+  stackoverflow    : 
   steam            : 
   tumblr           : 
   twitter          : 
