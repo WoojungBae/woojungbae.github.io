@@ -21,7 +21,7 @@ Work experience
 Education
 ======
 * Ph.D. in Statistics, University of Florida, Aug 2024
-  - Dissertation: A Bayesian nonparametric approach to causal inference
+  - Dissertation: Bayesian approaches to causal inference and missing data
   - Advisor: Dr. Michael Daniels
     + Research Assistant, Department of Statistics, May 2020 - Aug 2024
     + Teaching Assistant, Department of Statistics, Aug 2018 - May 2020
