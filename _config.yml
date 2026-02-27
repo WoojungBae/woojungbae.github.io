@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Woojung Bae"
 title_separator          : "-"
 name                     : &name "Woojung Bae"
-description              : &description "Statistician"
+description              : &description "Mathematical Statistician"
 url                      : https://woojungbae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Woojung Bae"
   avatar           : "WoojungBae_UF.jpg"
-  bio              : "Statistician"
+  bio              : "Mathematical Statistician"
   location         : 
   employer         : 
   googlescholar    : https://scholar.google.com/citations?hl=en&user=kDRdWkEAAAAJ&view_op=list_works&sortby=pubdate
